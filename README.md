@@ -1,0 +1,2 @@
+# GitAzure
+Deploy To Azure
